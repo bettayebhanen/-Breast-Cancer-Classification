@@ -4,7 +4,7 @@ A machine learning project that uses K-Nearest Neighbors algorithm to classify b
 
 ## 📋 Project Overview
 
-This project demonstrates how simple, interpretable machine learning models can provide meaningful insights in healthcare. Built to highlight the importance of early detection and AI's potential role in medical diagnostics, this classifier achieves excellent performance using the KNN algorithm.
+This project demonstrates how simple, interpretable machine learning models can provide meaningful insights in healthcare. Built to highlight the importance of early detection, this classifier achieves excellent performance using the KNN algorithm.
 
 ## 🎯 Results
 
